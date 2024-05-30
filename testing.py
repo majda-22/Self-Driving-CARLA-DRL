@@ -1,5 +1,5 @@
 '''
-  cette methode est utilisee pour tester le model 
+  cette classe est utilisee pour tester le model 
 '''
 import tensorflow as tf
 
